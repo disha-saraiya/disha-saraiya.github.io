@@ -15,12 +15,12 @@ function Navbar() {
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#about">
+            <a class="nav-link" href="#portfolio">
               PORTFOLIO
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#portfolio">
+            <a class="nav-link" href="#about">
               ABOUT ME
             </a>
           </li>
