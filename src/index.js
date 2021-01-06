@@ -5,10 +5,11 @@ import * as serviceWorker from "./serviceWorker";
 import "bootstrap/dist/css/bootstrap.css";
 import "font-awesome/css/font-awesome.css";
 import Homepage from "./components/Homepage";
+import Redirect from "./components/Redirect";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Homepage />
+    <Redirect />
   </React.StrictMode>,
   document.getElementById("root")
 );

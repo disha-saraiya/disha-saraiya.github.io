@@ -1,0 +1,79 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body{
+    height: 100vh; 
+    width: 220vh; 
+  }
+  
+  div {
+    overflow-y: auto;
+  }
+
+  h2 {
+    line-height: 1;
+    margin: 10px;
+  }
+    
+  #redirect{
+    background-color: lightblue;
+    position:absolute; 
+    text-align: center;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    margin-top: 10px;  
+
+  }
+
+  #redirect h3{
+      text-align: center; 
+  }
+  
+  .main_img {
+    position: relative;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+.main__title {
+    text-align: center;
+    font-size: 50px;
+  }
+  
+  .main__links {
+    text-align: center;
+  }
+  
+  
+  .fa {
+    padding: 20px;
+    border-radius: 50%;
+    width: 30px;
+    font-size: 20px;
+    margin: 5px 2px;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+    opacity: 0.6;
+  }
+  
+  .fa-facebook {
+    color: black;
+  }
+  
+  .fa-google {
+    color: black;
+  }
+  
+  .fa-linkedin {
+    color: black;
+  }
+  
+  .fa-github {
+    color: black;
+  }
+  

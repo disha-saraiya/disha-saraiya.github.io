@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body{
+  height: 100vh; 
+}
+
 div {
   overflow-y: auto;
 }
@@ -20,6 +24,12 @@ h1 {
 }
 
 /* styling the introduction */
+
+
+#redirect{
+  background-color: lightblue;
+}
+
 
 .main {
   display: flex;
